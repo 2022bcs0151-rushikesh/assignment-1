@@ -1,0 +1,201 @@
+customer_id,contract_type,risk_level,tickets_30d,has_complaint
+C0001,Two Year,MEDIUM,4,True
+C0002,Month-to-Month,HIGH,3,True
+C0003,Month-to-Month,HIGH,4,True
+C0004,Month-to-Month,HIGH,5,True
+C0005,Two Year,LOW,1,False
+C0006,Month-to-Month,HIGH,5,True
+C0007,Month-to-Month,HIGH,7,True
+C0008,Month-to-Month,HIGH,4,True
+C0009,One Year,LOW,1,False
+C0010,Month-to-Month,HIGH,6,False
+C0011,One Year,LOW,2,True
+C0012,Month-to-Month,HIGH,2,True
+C0013,One Year,HIGH,7,True
+C0014,One Year,MEDIUM,4,True
+C0015,Month-to-Month,HIGH,2,True
+C0016,One Year,MEDIUM,5,True
+C0017,Two Year,LOW,2,False
+C0018,One Year,HIGH,6,True
+C0019,One Year,HIGH,8,True
+C0020,Month-to-Month,HIGH,7,True
+C0021,Two Year,LOW,1,False
+C0022,Two Year,LOW,1,False
+C0023,Month-to-Month,LOW,2,False
+C0024,Month-to-Month,HIGH,1,True
+C0025,Month-to-Month,HIGH,8,True
+C0026,One Year,HIGH,7,True
+C0027,Two Year,HIGH,8,True
+C0028,Two Year,HIGH,8,True
+C0029,Two Year,LOW,1,False
+C0030,Two Year,MEDIUM,5,True
+C0031,Two Year,HIGH,8,True
+C0032,Two Year,MEDIUM,4,True
+C0033,Month-to-Month,LOW,2,False
+C0034,Two Year,HIGH,8,True
+C0035,One Year,MEDIUM,3,True
+C0036,Month-to-Month,LOW,2,False
+C0037,Two Year,HIGH,6,True
+C0038,One Year,MEDIUM,3,True
+C0039,One Year,MEDIUM,4,True
+C0040,Month-to-Month,HIGH,4,True
+C0041,One Year,MEDIUM,3,True
+C0042,One Year,MEDIUM,5,True
+C0043,One Year,MEDIUM,4,False
+C0044,Two Year,HIGH,6,True
+C0045,Two Year,LOW,2,True
+C0046,Month-to-Month,HIGH,3,True
+C0047,Month-to-Month,HIGH,7,True
+C0048,Month-to-Month,HIGH,3,True
+C0049,One Year,HIGH,7,False
+C0050,Month-to-Month,MEDIUM,4,False
+C0051,Month-to-Month,HIGH,5,True
+C0052,Month-to-Month,HIGH,5,True
+C0053,One Year,MEDIUM,5,False
+C0054,One Year,MEDIUM,5,True
+C0055,One Year,LOW,0,False
+C0056,Month-to-Month,HIGH,2,True
+C0057,One Year,MEDIUM,3,False
+C0058,One Year,HIGH,7,True
+C0059,Two Year,LOW,2,True
+C0060,One Year,MEDIUM,5,True
+C0061,Two Year,HIGH,6,True
+C0062,Two Year,HIGH,8,False
+C0063,Two Year,HIGH,8,True
+C0064,One Year,MEDIUM,5,False
+C0065,Two Year,MEDIUM,3,False
+C0066,Two Year,HIGH,7,True
+C0067,One Year,MEDIUM,4,True
+C0068,Two Year,LOW,2,False
+C0069,One Year,HIGH,8,True
+C0070,Two Year,HIGH,7,True
+C0071,One Year,LOW,0,False
+C0072,Month-to-Month,MEDIUM,4,False
+C0073,One Year,MEDIUM,4,True
+C0074,Two Year,LOW,1,False
+C0075,Month-to-Month,LOW,2,False
+C0076,One Year,MEDIUM,4,False
+C0077,Two Year,MEDIUM,3,True
+C0078,One Year,LOW,1,False
+C0079,One Year,MEDIUM,4,True
+C0080,One Year,LOW,0,False
+C0081,One Year,MEDIUM,4,True
+C0082,Month-to-Month,HIGH,7,True
+C0083,Month-to-Month,HIGH,7,True
+C0084,Two Year,HIGH,7,True
+C0085,One Year,HIGH,7,True
+C0086,One Year,LOW,2,False
+C0087,One Year,HIGH,7,True
+C0088,Month-to-Month,MEDIUM,4,False
+C0089,Two Year,HIGH,6,False
+C0090,Two Year,HIGH,6,True
+C0091,Month-to-Month,HIGH,6,True
+C0092,Two Year,HIGH,6,True
+C0093,Two Year,LOW,1,False
+C0094,Two Year,LOW,0,False
+C0095,Month-to-Month,LOW,0,False
+C0096,One Year,HIGH,6,False
+C0097,One Year,LOW,2,False
+C0098,One Year,LOW,0,False
+C0099,One Year,HIGH,8,True
+C0100,Month-to-Month,HIGH,5,True
+C0101,Two Year,MEDIUM,4,False
+C0102,Two Year,LOW,2,True
+C0103,One Year,LOW,0,False
+C0104,Two Year,LOW,2,False
+C0105,Month-to-Month,HIGH,8,True
+C0106,Month-to-Month,MEDIUM,3,False
+C0107,Month-to-Month,LOW,1,False
+C0108,Two Year,MEDIUM,4,True
+C0109,Two Year,HIGH,8,True
+C0110,Month-to-Month,HIGH,8,True
+C0111,One Year,MEDIUM,5,False
+C0112,Month-to-Month,HIGH,3,True
+C0113,Month-to-Month,MEDIUM,3,False
+C0114,Month-to-Month,HIGH,2,True
+C0115,Month-to-Month,HIGH,2,True
+C0116,One Year,MEDIUM,3,True
+C0117,Month-to-Month,HIGH,8,True
+C0118,Month-to-Month,HIGH,6,True
+C0119,One Year,HIGH,8,True
+C0120,One Year,LOW,1,False
+C0121,One Year,MEDIUM,5,True
+C0122,Month-to-Month,HIGH,8,True
+C0123,Month-to-Month,HIGH,3,True
+C0124,Two Year,HIGH,6,True
+C0125,Month-to-Month,HIGH,6,True
+C0126,One Year,LOW,1,True
+C0127,Month-to-Month,LOW,0,False
+C0128,Two Year,HIGH,7,True
+C0129,Two Year,LOW,0,False
+C0130,Month-to-Month,LOW,0,False
+C0131,Month-to-Month,MEDIUM,3,False
+C0132,Month-to-Month,HIGH,6,True
+C0133,One Year,MEDIUM,5,True
+C0134,One Year,HIGH,7,True
+C0135,Two Year,MEDIUM,5,True
+C0136,Month-to-Month,HIGH,4,True
+C0137,One Year,HIGH,7,True
+C0138,One Year,MEDIUM,4,True
+C0139,Two Year,HIGH,6,True
+C0140,Two Year,LOW,2,False
+C0141,One Year,LOW,2,False
+C0142,One Year,MEDIUM,5,True
+C0143,Two Year,LOW,2,True
+C0144,One Year,HIGH,6,True
+C0145,Two Year,MEDIUM,5,False
+C0146,Month-to-Month,HIGH,1,True
+C0147,Two Year,LOW,2,False
+C0148,Month-to-Month,LOW,2,False
+C0149,One Year,MEDIUM,3,False
+C0150,One Year,HIGH,7,False
+C0151,One Year,HIGH,7,True
+C0152,One Year,MEDIUM,3,True
+C0153,One Year,HIGH,8,True
+C0154,One Year,HIGH,7,True
+C0155,Month-to-Month,HIGH,3,True
+C0156,Month-to-Month,HIGH,7,True
+C0157,Two Year,LOW,1,True
+C0158,One Year,LOW,0,False
+C0159,Two Year,MEDIUM,5,True
+C0160,Month-to-Month,HIGH,8,True
+C0161,Month-to-Month,HIGH,5,True
+C0162,One Year,LOW,0,False
+C0163,Two Year,LOW,1,False
+C0164,One Year,HIGH,7,True
+C0165,Two Year,LOW,2,True
+C0166,Month-to-Month,MEDIUM,4,False
+C0167,Month-to-Month,HIGH,5,True
+C0168,Two Year,HIGH,7,True
+C0169,One Year,LOW,1,False
+C0170,Two Year,MEDIUM,5,True
+C0171,One Year,HIGH,7,True
+C0172,Two Year,LOW,1,False
+C0173,One Year,LOW,2,False
+C0174,Month-to-Month,LOW,2,False
+C0175,Two Year,HIGH,7,True
+C0176,Month-to-Month,LOW,1,False
+C0177,Two Year,LOW,2,False
+C0178,One Year,LOW,0,False
+C0179,Month-to-Month,HIGH,4,True
+C0180,One Year,HIGH,8,True
+C0181,Month-to-Month,HIGH,4,True
+C0182,Two Year,HIGH,7,True
+C0183,One Year,MEDIUM,5,True
+C0184,One Year,HIGH,7,True
+C0185,Month-to-Month,HIGH,7,True
+C0186,Month-to-Month,HIGH,7,True
+C0187,One Year,LOW,0,False
+C0188,Two Year,MEDIUM,5,True
+C0189,Month-to-Month,HIGH,6,True
+C0190,Month-to-Month,HIGH,7,False
+C0191,Two Year,HIGH,7,True
+C0192,Two Year,HIGH,7,True
+C0193,One Year,HIGH,7,True
+C0194,One Year,MEDIUM,5,False
+C0195,Month-to-Month,MEDIUM,4,False
+C0196,One Year,MEDIUM,4,True
+C0197,Month-to-Month,HIGH,4,True
+C0198,Month-to-Month,HIGH,8,True
+C0199,Two Year,LOW,2,False
+C0200,One Year,MEDIUM,4,True

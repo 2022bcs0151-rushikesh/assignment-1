@@ -1,0 +1,201 @@
+customer_id,contract_type,monthly_charge,num_tickets_30d
+C0001,Two Year,31.13,4
+C0002,Month-to-Month,22.98,3
+C0003,Month-to-Month,64.92,4
+C0004,Month-to-Month,41.53,5
+C0005,Two Year,65.94,1
+C0006,Month-to-Month,75.2,5
+C0007,Month-to-Month,58.01,7
+C0008,Month-to-Month,66.23,4
+C0009,One Year,60.12,1
+C0010,Month-to-Month,85.54,6
+C0011,One Year,41.93,2
+C0012,Month-to-Month,35.28,2
+C0013,One Year,58.16,7
+C0014,One Year,20.32,4
+C0015,Month-to-Month,57.39,2
+C0016,One Year,21.95,5
+C0017,Two Year,96.58,2
+C0018,One Year,72.77,6
+C0019,One Year,22.1,8
+C0020,Month-to-Month,73.92,7
+C0021,Two Year,85.35,1
+C0022,Two Year,53.93,1
+C0023,Month-to-Month,73.63,2
+C0024,Month-to-Month,107.45,1
+C0025,Month-to-Month,85.21,8
+C0026,One Year,112.65,7
+C0027,Two Year,67.68,8
+C0028,Two Year,28.2,8
+C0029,Two Year,119.85,1
+C0030,Two Year,46.52,5
+C0031,Two Year,118.39,8
+C0032,Two Year,54.29,4
+C0033,Month-to-Month,20.35,2
+C0034,Two Year,90.57,8
+C0035,One Year,41.01,3
+C0036,Month-to-Month,106.46,2
+C0037,Two Year,112.45,6
+C0038,One Year,54.97,3
+C0039,One Year,106.44,4
+C0040,Month-to-Month,78.06,4
+C0041,One Year,109.95,3
+C0042,One Year,63.13,5
+C0043,One Year,60.24,4
+C0044,Two Year,76.91,6
+C0045,Two Year,67.32,2
+C0046,Month-to-Month,101.84,3
+C0047,Month-to-Month,44.48,7
+C0048,Month-to-Month,97.84,3
+C0049,One Year,33.33,7
+C0050,Month-to-Month,103.99,4
+C0051,Month-to-Month,47.17,5
+C0052,Month-to-Month,61.49,5
+C0053,One Year,20.59,5
+C0054,One Year,22.9,5
+C0055,One Year,79.19,0
+C0056,Month-to-Month,84.27,2
+C0057,One Year,57.91,3
+C0058,One Year,103.49,7
+C0059,Two Year,35.24,2
+C0060,One Year,89.95,5
+C0061,Two Year,87.73,6
+C0062,Two Year,57.06,8
+C0063,Two Year,100.82,8
+C0064,One Year,22.87,5
+C0065,Two Year,21.02,3
+C0066,Two Year,67.61,7
+C0067,One Year,90.29,4
+C0068,Two Year,73.59,2
+C0069,One Year,92.46,8
+C0070,Two Year,114.41,7
+C0071,One Year,69.17,0
+C0072,Month-to-Month,34.92,4
+C0073,One Year,110.85,4
+C0074,Two Year,41.1,1
+C0075,Month-to-Month,75.2,2
+C0076,One Year,23.26,4
+C0077,Two Year,78.98,3
+C0078,One Year,102.66,1
+C0079,One Year,79.5,4
+C0080,One Year,28.04,0
+C0081,One Year,93.45,4
+C0082,Month-to-Month,67.05,7
+C0083,Month-to-Month,52.98,7
+C0084,Two Year,106.94,7
+C0085,One Year,63.81,7
+C0086,One Year,114.71,2
+C0087,One Year,103.47,7
+C0088,Month-to-Month,48.28,4
+C0089,Two Year,96.29,6
+C0090,Two Year,67.3,6
+C0091,Month-to-Month,92.24,6
+C0092,Two Year,105.93,6
+C0093,Two Year,90.39,1
+C0094,Two Year,49.95,0
+C0095,Month-to-Month,52.44,0
+C0096,One Year,55.85,6
+C0097,One Year,111.28,2
+C0098,One Year,45.53,0
+C0099,One Year,110.12,8
+C0100,Month-to-Month,43.72,5
+C0101,Two Year,94.52,4
+C0102,Two Year,95.56,2
+C0103,One Year,98.86,0
+C0104,Two Year,56.49,2
+C0105,Month-to-Month,40.08,8
+C0106,Month-to-Month,95.42,3
+C0107,Month-to-Month,46.45,1
+C0108,Two Year,94.9,4
+C0109,Two Year,108.42,8
+C0110,Month-to-Month,29.72,8
+C0111,One Year,23.27,5
+C0112,Month-to-Month,59.81,3
+C0113,Month-to-Month,98.68,3
+C0114,Month-to-Month,52.86,2
+C0115,Month-to-Month,74.02,2
+C0116,One Year,99.0,3
+C0117,Month-to-Month,94.17,8
+C0118,Month-to-Month,119.86,6
+C0119,One Year,119.46,8
+C0120,One Year,61.6,1
+C0121,One Year,86.51,5
+C0122,Month-to-Month,75.64,8
+C0123,Month-to-Month,85.67,3
+C0124,Two Year,42.62,6
+C0125,Month-to-Month,106.99,6
+C0126,One Year,92.16,1
+C0127,Month-to-Month,35.74,0
+C0128,Two Year,28.16,7
+C0129,Two Year,86.71,0
+C0130,Month-to-Month,59.53,0
+C0131,Month-to-Month,40.44,3
+C0132,Month-to-Month,20.77,6
+C0133,One Year,112.12,5
+C0134,One Year,37.19,7
+C0135,Two Year,53.95,5
+C0136,Month-to-Month,30.28,4
+C0137,One Year,95.44,7
+C0138,One Year,70.73,4
+C0139,Two Year,79.41,6
+C0140,Two Year,28.43,2
+C0141,One Year,72.41,2
+C0142,One Year,60.88,5
+C0143,Two Year,105.16,2
+C0144,One Year,51.02,6
+C0145,Two Year,56.18,5
+C0146,Month-to-Month,49.58,1
+C0147,Two Year,53.68,2
+C0148,Month-to-Month,103.13,2
+C0149,One Year,87.64,3
+C0150,One Year,116.56,7
+C0151,One Year,25.22,7
+C0152,One Year,29.17,3
+C0153,One Year,25.33,8
+C0154,One Year,111.74,7
+C0155,Month-to-Month,97.62,3
+C0156,Month-to-Month,31.09,7
+C0157,Two Year,117.47,1
+C0158,One Year,107.33,0
+C0159,Two Year,58.69,5
+C0160,Month-to-Month,24.43,8
+C0161,Month-to-Month,108.58,5
+C0162,One Year,55.7,0
+C0163,Two Year,53.19,1
+C0164,One Year,108.95,7
+C0165,Two Year,119.51,2
+C0166,Month-to-Month,52.79,4
+C0167,Month-to-Month,92.68,5
+C0168,Two Year,87.81,7
+C0169,One Year,57.2,1
+C0170,Two Year,56.69,5
+C0171,One Year,97.5,7
+C0172,Two Year,54.74,1
+C0173,One Year,105.14,2
+C0174,Month-to-Month,118.51,2
+C0175,Two Year,77.23,7
+C0176,Month-to-Month,117.24,1
+C0177,Two Year,71.74,2
+C0178,One Year,70.29,0
+C0179,Month-to-Month,71.81,4
+C0180,One Year,39.63,8
+C0181,Month-to-Month,24.55,4
+C0182,Two Year,115.67,7
+C0183,One Year,106.15,5
+C0184,One Year,32.25,7
+C0185,Month-to-Month,96.31,7
+C0186,Month-to-Month,25.05,7
+C0187,One Year,24.52,0
+C0188,Two Year,76.18,5
+C0189,Month-to-Month,117.51,6
+C0190,Month-to-Month,91.36,7
+C0191,Two Year,76.29,7
+C0192,Two Year,25.14,7
+C0193,One Year,70.18,7
+C0194,One Year,111.21,5
+C0195,Month-to-Month,114.15,4
+C0196,One Year,76.05,4
+C0197,Month-to-Month,49.05,4
+C0198,Month-to-Month,40.21,8
+C0199,Two Year,67.24,2
+C0200,One Year,85.05,4
